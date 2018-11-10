@@ -517,7 +517,6 @@ member.sendFile(canvas.toBuffer());
 
 
 
-
 ////welcome new new new
 
 client.on("ready", () => {
@@ -530,10 +529,24 @@ channel.send('♥♥♥الله اكبر');
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
+channel.send('هلا يحب اي حلو السبام هه هبوب هوب  اذا تريد بوت السبام تواصل مع @l͠i͠f͠e͠#4630 ');
+}, 25)
+})
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
 channel.send('welcome welcome welcome wwelcome welcome welcome welcome welcome welcome');
 }, 25)
 })
 
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
+channel.send('احله اسبام دا ولا اي  ♥ ☺ ♣ • توب يلا توب هه');
+}, 25)
+})
 
 
 
