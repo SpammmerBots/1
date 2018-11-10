@@ -48,6 +48,12 @@ client.user.setGame("♥");
 });
 
 
+client.on('ready', () => {
+  client.user.setGame(`»Tφp★ .`,'https://www.twitch.tv/v5bz');
+  console.log('---------------');
+  console.log('Desert Bot Is Online')
+  console.log('---------------')
+});
 
 
 client.on("message", message => {
