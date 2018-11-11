@@ -884,12 +884,7 @@ channel.send('ولا ولا ولا ولا ولا ولا باك يلا هه');
 })
 
 
-client.on("ready", () => {
-let channel =     client.channels.get("496430233444941854")
-setInterval(function() {
-channel.send('ولكم ولكم ولكم ولكم  ');
-}, 25)
-})
+
 
 client.on("ready", () => {
 let channel =     client.channels.get("496430233444941854")
