@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`»Tφp★  Perm Online .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»Perm Online.`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
@@ -837,72 +837,6 @@ channel.send(' https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup
 })
 
 ///////SPAMdiscordgaming
-client.on("ready", () => {
-let channel =     client.channels.get("502827265281884161")
-setInterval(function() {
-channel.send('هلا هلا هلا هلا هلا باك كرديت more ');
-}, 25)
-})
-
-
-client.on("ready", () => {
-let channel =     client.channels.get("502827265281884161")
-setInterval(function() {
-channel.send('»سبااااااااااااااااااااااااااااام ');
-}, 25)
-})
-
-
-
-
-
-client.on("ready", () => {
-let channel =     client.channels.get("504948984238833664")
-setInterval(function() {
-channel.send('BACK BACK TOP توب ههه توب هيري هاي يلا يلا ');
-}, 25)
-})
-
-
-
-client.on("ready", () => {
-let channel =     client.channels.get("504948984238833664")
-setInterval(function() {
-channel.send('وووووووووا اوخ ايبشبشبشل  سةلنسللةسن لسةنسلةنةنسةنلشسي  شسيش لالبا  هبد ');
-}, 25)
-})
-
-
-
-
-
-client.on("ready", () => {
-let channel =     client.channels.get("504948984620646410")
-setInterval(function() {
-channel.send('ولا ولا ولا ولا ولا ولا باك يلا هه');
-}, 25)
-})
-
-
-
-
-client.on("ready", () => {
-let channel =     client.channels.get("502827266363883531")
-setInterval(function() {
-channel.send('a b c d  a b c d a b c d a b c d 1 2 3 12 3 123 123 456 789 top back welcome ');
-}, 25)
-})
-
-
-
- client.on("ready", () => {
-let channel =     client.channels.get("502827266363883531")
-setInterval(function() {
-channel.send('فففف');
-}, 25)
-})
-
-
 
 
 
