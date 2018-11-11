@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`»Tφp★ .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»Tφp★  Perm Online .`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
@@ -518,6 +518,113 @@ member.sendFile(canvas.toBuffer());
 
 
 ////welcome new new new
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
+channel.send('السبام علي وضعه ♥');
+}, 25)
+})
+
+
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
+channel.send('في نظـــــام جديد في سرفر جمنج  5 دعواك بوت سبام شغال 3 ايام  15 دعوه 18 يوم  انت الكسبان ♥');
+}, 25)
+})
+
+
+
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
+channel.send('كرديت اكثر اسبام اكثر توب ياض');
+}, 25)
+})
+
+
+
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
+channel.send('ض ص ث ث ق ف ف غ ع ه خ ح ج د ئ ء ؤ ر لا ى ى و ةز ظ ط ك م ن ت ا ل ل ب ي س ش  توب توب ');
+}, 25)
+})
+
+
+
+
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
+channel.send('اهوووو اي سبام هه يلا ');
+}, 25)
+})
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("502827265281884161")
+setInterval(function() {
+channel.send('بوت سبام علي وضعة اسبامممم اشتري  وي الحق العرض ');
+}, 25)
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
