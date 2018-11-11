@@ -836,6 +836,64 @@ channel.send(' https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup
 }, 25)
 })
 
+///////SPAMdiscordgaming
+client.on("ready", () => {
+let channel =     client.channels.get("496430233444941854")
+setInterval(function() {
+channel.send('هلا هلا هلا هلا هلا باك كرديت more ');
+}, 25)
+})
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("496430233444941854")
+setInterval(function() {
+channel.send('»سبااااااااااااااااااااااااااااام ');
+}, 25)
+})
+
+
+
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("504948984238833664")
+setInterval(function() {
+channel.send('BACK BACK TOP توب ههه توب هيري هاي يلا يلا ');
+}, 25)
+})
+
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("504948984238833664")
+setInterval(function() {
+channel.send('وووووووووا اوخ ايبشبشبشل  سةلنسللةسن لسةنسلةنةنسةنلشسي  شسيش لالبا  هبد ');
+}, 25)
+})
+
+
+
+
+
+client.on("ready", () => {
+let channel =     client.channels.get("504948984620646410")
+setInterval(function() {
+channel.send('ولا ولا ولا ولا ولا ولا باك يلا هه');
+}, 25)
+})
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
