@@ -909,12 +909,6 @@ channel.send('فففف');
 
 
 
-client.on("ready", () => {
-let channel =     client.channels.get("510213840068411413")
-setInterval(function() {
-channel.send('سبام كك توب ');
-}, 5)
-})
 
 
 
