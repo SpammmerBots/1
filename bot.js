@@ -884,9 +884,28 @@ channel.send('ولا ولا ولا ولا ولا ولا باك يلا هه');
 })
 
 
+client.on("ready", () => {
+let channel =     client.channels.get("496430233444941854")
+setInterval(function() {
+channel.send('ولكم ولكم ولكم ولكم  ');
+}, 25)
+})
+
+client.on("ready", () => {
+let channel =     client.channels.get("496430233444941854")
+setInterval(function() {
+channel.send('a b c d  a b c d a b c d a b c d 1 2 3 12 3 123 123 456 789 top back welcome ');
+}, 25)
+})
 
 
 
+ client.on("ready", () => {
+let channel =     client.channels.get("496430233444941854")
+setInterval(function() {
+channel.send('فففف');
+}, 25)
+})
 
 
 
