@@ -838,7 +838,7 @@ channel.send(' https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup
 
 ///////SPAMdiscordgaming
 client.on("ready", () => {
-let channel =     client.channels.get("496430233444941854")
+let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('هلا هلا هلا هلا هلا باك كرديت more ');
 }, 25)
@@ -846,7 +846,7 @@ channel.send('هلا هلا هلا هلا هلا باك كرديت more ');
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("496430233444941854")
+let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('»سبااااااااااااااااااااااااااااام ');
 }, 25)
@@ -887,7 +887,7 @@ channel.send('ولا ولا ولا ولا ولا ولا باك يلا هه');
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("496430233444941854")
+let channel =     client.channels.get("502827266363883531")
 setInterval(function() {
 channel.send('a b c d  a b c d a b c d a b c d 1 2 3 12 3 123 123 456 789 top back welcome ');
 }, 25)
@@ -896,7 +896,7 @@ channel.send('a b c d  a b c d a b c d a b c d 1 2 3 12 3 123 123 456 789 top ba
 
 
  client.on("ready", () => {
-let channel =     client.channels.get("496430233444941854")
+let channel =     client.channels.get("502827266363883531")
 setInterval(function() {
 channel.send('فففف');
 }, 25)
