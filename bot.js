@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`»Perm Online•`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»Perm Online•♥`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
@@ -867,14 +867,6 @@ var channel = "502827265281884161";//ايدي الروم
 })
 
 
-
-client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "502827265281884161";//ايدي الروم
-    setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**hi , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
-    },305);
-})
 
 
 
