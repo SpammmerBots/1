@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`•Perm Online•`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»Online Perm ♥`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
@@ -650,21 +650,21 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('♥♥♥الله اكبر');
-}, 10)
+}, 305)
 })
 
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('هلا يحب اي حلو السبام هه هبوب هوب  اذا تريد بوت السبام تواصل مع @l͠i͠f͠e͠#4630 ');
-}, 10)
+}, 305)
 })
 
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('welcome welcome welcome wwelcome welcome welcome welcome welcome welcome');
-}, 10)
+}, 305)
 })
 
 
@@ -672,7 +672,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('احله اسبام دا ولا اي  ♥ ☺ ♣ • توب يلا توب هه');
-}, 10)
+}, 305)
 })
 
 
@@ -681,7 +681,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('spammer More in discord TOP TOP TOP credit 10k a 1day  5 acc Spammer MOre =50k Credit a 1 day :O');
-}, 10)
+}, 305)
 })
 
 
@@ -689,7 +689,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('بوت بوت سبام بوت بوت سبام هوب هوب هوب 10ك كرديت في اليوم اوميجد ');
-}, 10)
+}, 305)
 })
 
 
@@ -697,7 +697,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('Mahmoud-QuaStyle Top   Life Top ♥♥ ');
-}, 25)
+}, 305)
 })
 
 
@@ -717,7 +717,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('Number 1 Number 1 Spammer MOre hhhhhh QQ Baby hh Lol  ');
-}, 25)
+}, 305)
 })
 
 
@@ -727,7 +727,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827266338979856")
 setInterval(function() {
 channel.send('WELCOME BACK TO SCHOOL SPAMMER OMG  ');
-}, 25)
+}, 305)
 })
 
 
@@ -738,7 +738,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827266338979856")
 setInterval(function() {
 channel.send('A4try BOTs spammer MOre yad al7a2el 3ard men Life aw Mahmoud top top top  ');
-}, 25)
+}, 305)
 })
 
 
@@ -748,7 +748,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827266338979856")
 setInterval(function() {
 channel.send('AL ONE YAD HHH AL ONE YAD DD  ');
-}, 25)
+}, 305)
 })
 
 
@@ -757,7 +757,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827266338979856")
 setInterval(function() {
 channel.send('Discord bot spammer more hh qq   ');
-}, 25)
+}, 305)
 })
 
 
@@ -771,7 +771,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827266363883531")
 setInterval(function() {
 channel.send(':up:  |  Spammer 2 has given @༄ϻά𝔥𝔪𝔬𝔲𝓓-QuaStyle ≽ܫ≼ a reputation point!  ');
-}, 25)
+}, 305)
 })
 
  
@@ -789,7 +789,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827266363883531")
 setInterval(function() {
 channel.send('Emoji Channel t7t da 3la tolll  ');
-}, 25)
+}, 305)
 })
 
 
@@ -802,7 +802,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827267047555072")
 setInterval(function() {
 channel.send('♥♥♥♥♥♥♥♥  ');
-}, 25)
+}, 305)
 })
 
 
@@ -813,7 +813,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827267047555072")
 setInterval(function() {
 channel.send(':watch:  :100:  :weary:  :computer:  :ok_hand: ');
-}, 25)
+}, 305)
 })
 
 
@@ -822,7 +822,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827267047555072")
 setInterval(function() {
 channel.send(':flag_ac:  :flag_af:  :flag_ad:  :flag_eg:  :flag_iq:  :flag_kh:');
-}, 25)
+}, 305)
 })
 
 
@@ -831,7 +831,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827267047555072")
 setInterval(function() {
 channel.send(':eggplant: :trackball: :clock: :bike: :tangerine:');
-}, 25)
+}, 305)
 })
 
 
@@ -845,7 +845,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827267232366594")
 setInterval(function() {
 channel.send(' https://cdn.pg.sa/ZzCBpPDFgM.png');
-}, 25)
+}, 305)
 })
 
 
@@ -853,7 +853,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827267232366594")
 setInterval(function() {
 channel.send(' https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup-dribbble.gif ');
-}, 25)
+}, 305)
 })
 
 ///////SPAMdiscordgaming
