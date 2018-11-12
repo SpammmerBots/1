@@ -23,11 +23,31 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`»Perm Online.`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»Perm Online•`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
 });
+
+client.on('message', msg => {
+
+    if (msg.content == '...join') {
+        if (msg.member.voiceChannel) {
+
+     if (msg.member.voiceChannel.joinable) {
+         msg.member.voiceChannel.join().then(msg.react('white_check_mark'));
+     }
+    }
+}
+})
+client.on('ready', () => { //code bot not leave room voice //Bot Is Online
+    client.channels.get("480938410157277185").join(); ////»Top
+    });
+
+
+
+
+
 
 
 client.on("message", message => {
