@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`»Perm Online•♥`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`•Perm Online•♥`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
@@ -650,21 +650,21 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('♥♥♥الله اكبر');
-}, 25)
+}, 305)
 })
 
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('هلا يحب اي حلو السبام هه هبوب هوب  اذا تريد بوت السبام تواصل مع @l͠i͠f͠e͠#4630 ');
-}, 25)
+}, 305)
 })
 
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('welcome welcome welcome wwelcome welcome welcome welcome welcome welcome');
-}, 25)
+}, 305)
 })
 
 
@@ -672,7 +672,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('احله اسبام دا ولا اي  ♥ ☺ ♣ • توب يلا توب هه');
-}, 25)
+}, 305)
 })
 
 
@@ -689,7 +689,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('بوت بوت سبام بوت بوت سبام هوب هوب هوب 10ك كرديت في اليوم اوميجد ');
-}, 25)
+}, 305)
 })
 
 
@@ -858,13 +858,6 @@ channel.send(' https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup
 
 ///////SPAMdiscordgaming
 
-client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "502827265281884161";//ايدي الروم
-    setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
-    },25);
-})
 
 
 
