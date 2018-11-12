@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`•Perm Online•♥`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`•Perm Online•`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
@@ -650,21 +650,21 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('♥♥♥الله اكبر');
-}, 305)
+}, 10)
 })
 
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('هلا يحب اي حلو السبام هه هبوب هوب  اذا تريد بوت السبام تواصل مع @l͠i͠f͠e͠#4630 ');
-}, 305)
+}, 10)
 })
 
 client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('welcome welcome welcome wwelcome welcome welcome welcome welcome welcome');
-}, 305)
+}, 10)
 })
 
 
@@ -672,7 +672,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('احله اسبام دا ولا اي  ♥ ☺ ♣ • توب يلا توب هه');
-}, 305)
+}, 10)
 })
 
 
@@ -681,7 +681,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('spammer More in discord TOP TOP TOP credit 10k a 1day  5 acc Spammer MOre =50k Credit a 1 day :O');
-}, 25)
+}, 10)
 })
 
 
@@ -689,7 +689,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('بوت بوت سبام بوت بوت سبام هوب هوب هوب 10ك كرديت في اليوم اوميجد ');
-}, 305)
+}, 10)
 })
 
 
