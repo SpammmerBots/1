@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`Welcome Back ♥ `,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`Old• `,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
@@ -707,7 +707,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('Spammer MOre hhhh :joy: :joy: ');
-}, 25)
+}, 305)
 })
 
 
@@ -731,17 +731,34 @@ channel.send('WELCOME BACK TO SCHOOL SPAMMER OMG  ');
 })
 
 
-
+client.on("ready", () => {
+let channel =     client.channels.get("502827266338979856")
+setInterval(function() {
+channel.send('WELCOME BACK TO SCHOOL SPAMMER OMG  ');
+}, 305)
+})
 
 
 client.on("ready", () => {
 let channel =     client.channels.get("502827266338979856")
 setInterval(function() {
-channel.send('A4try BOTs spammer MOre yad al7a2el 3ard men Life aw Mahmoud top top top  ');
+channel.send('Welcome Ya 7ob ♥ 3mel eh eh r2yak fe spam   ');
 }, 305)
 })
 
+client.on("ready", () => {
+let channel =     client.channels.get("502827266338979856")
+setInterval(function() {
+channel.send('3yt b2a HHHHHH :D :D :D    ');
+}, 305)
+})
 
+client.on("ready", () => {
+let channel =     client.channels.get("502827266338979856")
+setInterval(function() {
+channel.send('Welcome My Life ♥   ');
+}, 305)
+})
 
 
 client.on("ready", () => {
@@ -750,7 +767,12 @@ setInterval(function() {
 channel.send('AL ONE YAD HHH AL ONE YAD DD  ');
 }, 305)
 })
-
+client.on("ready", () => {
+let channel =     client.channels.get("502827266338979856")
+setInterval(function() {
+channel.send('halaaa everyone Spam more = Credit MOre hhh  ');
+}, 305)
+})
 
 
 client.on("ready", () => {
