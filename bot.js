@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`Old• `,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`Old•♥ `,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
