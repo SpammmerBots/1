@@ -919,13 +919,6 @@ var channel = "502873612781617152";//ايدي الروم
 
 
 /////////////////////New
-client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "499213116941533184";//ايدي الروم
-    setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**mAHMOUD TOP YALA **')
-    },1009);
-})
 
 client.on('ready', async() => {
 var server = "479519956208320512"; // ايدي السررفر
