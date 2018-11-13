@@ -920,40 +920,11 @@ var channel = "502873612781617152";//ايدي الروم
 
 /////////////////////New
 
-client.on('ready', async() => {
-var server = "479519956208320512"; // ايدي السررفر
-var channel = "496430233444941854";//ايدي الروم
-    setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**HHHHHHHHHHHHHH **')
-    },807);
-})
 
 
 
-client.on('ready', async() => {
-var server = "479519956208320512"; // ايدي السررفر
-var channel = "504948984238833664";//ايدي الروم
-    setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**WTF **')
-    },560);
-})
-
-client.on('ready', async() => {
-var server = "498511797008203777"; // ايدي السررفر
-var channel = "502873612781617152";//ايدي الروم
-    setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**WELCOME BACK TOTOTOT **')
-    },700);
-})
 
 
-client.on('ready', async() => {
-var server = "498511797008203777"; // ايدي السررفر
-var channel = "502873612781617152";//ايدي الروم
-    setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**HI BYE TOP **')
-    },990);
-})
 
 
 
