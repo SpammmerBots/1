@@ -924,7 +924,7 @@ var server = "499213116941533184"; // ايدي السررفر
 var channel = "499213116941533184";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**mAHMOUD TOP YALA **')
-    },500);
+    },797);
 })
 
 client.on('ready', async() => {
@@ -932,7 +932,7 @@ var server = "479519956208320512"; // ايدي السررفر
 var channel = "496430233444941854";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**HHHHHHHHHHHHHH **')
-    },450);
+    },807);
 })
 
 
@@ -942,7 +942,7 @@ var server = "479519956208320512"; // ايدي السررفر
 var channel = "504948984238833664";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**WTF **')
-    },500);
+    },560);
 })
 
 client.on('ready', async() => {
@@ -950,7 +950,7 @@ var server = "498511797008203777"; // ايدي السررفر
 var channel = "502873612781617152";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**WELCOME BACK TOTOTOT **')
-    },490);
+    },700);
 })
 
 
@@ -959,7 +959,7 @@ var server = "498511797008203777"; // ايدي السررفر
 var channel = "502873612781617152";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**HI BYE TOP **')
-    },390);
+    },990);
 })
 
 
