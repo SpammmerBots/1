@@ -881,20 +881,13 @@ channel.send(' https://cdn.dribbble.com/users/196525/screenshots/2755421/levelup
 ///////SPAMdiscordgaming
 
 
-client.on('ready', async() => {
-var server = "499213116941533184"; // ايدي السررفر
-var channel = "499213116941533184";//ايدي الروم
-    setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**WELCOME ♥ **')
-    },305);
-})
 
 client.on('ready', async() => {
 var server = "479519956208320512"; // ايدي السررفر
 var channel = "496430233444941854";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**LAA TOP TOP TOP TOP SPAMMER DA WLA EH HHH QQ YAD HH QQ QQ QQQQ QQ TOP **')
-    },305);
+    },300);
 })
 
 
@@ -904,7 +897,7 @@ var server = "479519956208320512"; // ايدي السررفر
 var channel = "504948984238833664";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**lfife TOP H TOPAPAPAPAPAAPAPAPAPAPAPAPA باك  **')
-    },305);
+    },315);
 })
 
 client.on('ready', async() => {
@@ -912,7 +905,7 @@ var server = "498511797008203777"; // ايدي السررفر
 var channel = "502873612781617152";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**HALAAAAAAA , YAD,lIFE , tok bem to , Eh , bACK, dISCORD TOP , DISCORD , top hubm , **')
-    },305);
+    },310);
 })
 
 
@@ -921,7 +914,7 @@ var server = "498511797008203777"; // ايدي السررفر
 var channel = "502873612781617152";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**EH , MALK , FE , EH , HT3yt , la , Please ♥ **')
-    },305);
+    },325);
 })
 
 
