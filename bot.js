@@ -23,7 +23,7 @@ var guilds = {};
 
 
 client.on('ready', () => {
-  client.user.setGame(`Old•♥ `,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`Old••  `,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
@@ -920,7 +920,43 @@ var channel = "502873612781617152";//ايدي الروم
 
 /////////////////////New
 
+client.on('ready', async() => {
+var server = "479519956208320512"; // ايدي السررفر
+var channel = "496430233444941854";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**LmYTOPALBOTACTIVEUFUCKALEVERYP **')
+    },510);
+})
 
+
+
+
+
+
+client.on('ready', async() => {
+var server = "479519956208320512"; // ايدي السررفر
+var channel = "504948984238833664";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**acitve fast fast O OO  O O OO   **')
+    },520);
+})
+
+client.on('ready', async() => {
+var server = "498511797008203777"; // ايدي السررفر
+var channel = "502873612781617152";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**DONE DONE ACTIVE ♥ TOP TOP TO HH **')
+    },530);
+})
+
+
+client.on('ready', async() => {
+var server = "498511797008203777"; // ايدي السررفر
+var channel = "502873612781617152";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**Mnwrek ya argala eh yla Active now HUB **')
+    },540);
+})
 
 
 
