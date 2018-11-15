@@ -23,6 +23,34 @@ var channel = "502827265281884161";//ايدي الروم
 })
 
 
+
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**GAMING , GAMING , GAMING G, GAMING , GAMING , GAMING , GAMING , GAMIN , GIMAN , GAMING , GAMING **')
+    },915);
+})
+
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**Welcome Back , welcome Back , Welcome Back , Weelcome Bacak , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back ,  Welcome Back ,  Welcome Back ,  Welcome Back ,  Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back , Welcome Back ,**')
+    },1220);
+})
+
+
+
+
+
+
+
+
+
+
+
 client.on('message', msg => {
 
     if (msg.content == '...join') {
