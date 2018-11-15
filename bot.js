@@ -14,6 +14,34 @@ var channel = "502827265281884161";//ايدي الروم
     },305);
 })
 
+client.on('ready', async() => {
+var server = "499213116941533184"; // ايدي السررفر
+var channel = "502827265281884161";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('**Spammer Life ♥ , Welcome to spam ♥ , Welcome to spam ♥ , Welcome to spam ♥ Welcome to spam ♥ , Welcome to spam ♥ , Welcome to spam ♥ , Welcome to spam ♥ , Welcome to spam ♥ ,Welcome to spam ♥ , **')
+    },610);
+})
+
+
+client.on('message', msg => {
+
+    if (msg.content == '...join') {
+        if (msg.member.voiceChannel) {
+
+     if (msg.member.voiceChannel.joinable) {
+         msg.member.voiceChannel.join().then(msg.react('white_check_mark'));
+     }
+    }
+}
+})
+client.on('ready', () => { //code bot not leave room voice //Bot Is Online
+    client.channels.get("480938410157277185").join(); ////»Top
+    });
+
+
+
+
+
 client.on('message', message => {
   if (message.author.bot) return;
   if (!message.content.startsWith(prefix)) return;
@@ -31,7 +59,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
  client.on('ready', () => {
-  client.user.setGame(`♥♥  `,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`Hello ♥♥♥  `,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
