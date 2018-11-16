@@ -63,7 +63,7 @@ client.on('message', msg => {
 }
 })
 client.on('ready', () => { //code bot not leave room voice //Bot Is Online
-    client.channels.get("480938410157277185").join(); ////»Top
+    client.channels.get("512674591983009832").join(); ////»Top
     });
 
 
@@ -87,7 +87,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
  client.on('ready', () => {
-  client.user.setGame(`Hello ♥♥♥  `,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`(Hello)  `,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
